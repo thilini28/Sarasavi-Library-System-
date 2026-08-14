@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|c:\\users\\avishka jayasinghe\\downloads\\library\\sarasavi library\\sarasavi library\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\userregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:userregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\bookregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:bookregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\bookregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:bookregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\inquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:inquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\inquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:inquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\inquiry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551AE9AB-91BE-47BD-8A0B-25D01211094D}|Sarasavi library.csproj|solutionrelative:inquiry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegistration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\UserRegistration.Designer.cs",
+              "RelativeDocumentMoniker": "UserRegistration.Designer.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\UserRegistration.Designer.cs",
+              "RelativeToolTip": "UserRegistration.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:10:02.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:31.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Return.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Return.cs",
+              "RelativeDocumentMoniker": "Return.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Return.cs [Design]",
+              "RelativeToolTip": "Return.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:31.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:32.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "UserRegistration.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\UserRegistration.cs",
+              "RelativeToolTip": "UserRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:32.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "UserRegistration.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\UserRegistration.cs [Design]",
+              "RelativeToolTip": "UserRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:16:20.485Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\BookRegistration.cs",
+              "RelativeDocumentMoniker": "BookRegistration.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\BookRegistration.cs",
+              "RelativeToolTip": "BookRegistration.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwv2kAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\BookRegistration.cs",
+              "RelativeDocumentMoniker": "BookRegistration.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\BookRegistration.cs [Design]",
+              "RelativeToolTip": "BookRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:32.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Return.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Return.cs",
+              "RelativeDocumentMoniker": "Return.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Return.cs",
+              "RelativeToolTip": "Return.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:32.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reservation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Reservation.cs",
+              "RelativeDocumentMoniker": "Reservation.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Library\\Sarasavi library\\Reservation.cs [Design]",
+              "RelativeToolTip": "..\\..\\Library\\Sarasavi library\\Reservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:31.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Reservation.cs",
+              "RelativeDocumentMoniker": "Reservation.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Reservation.cs",
+              "RelativeToolTip": "Reservation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:32.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:33.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:32.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Loan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Loan.cs",
+              "RelativeDocumentMoniker": "Loan.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Library\\Sarasavi library\\Loan.cs [Design]",
+              "RelativeToolTip": "..\\..\\Library\\Sarasavi library\\Loan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:31.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Loan.cs",
+              "RelativeDocumentMoniker": "Loan.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Loan.cs",
+              "RelativeToolTip": "Loan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBYAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:32.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Inquiry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Inquiry.cs",
+              "RelativeDocumentMoniker": "Inquiry.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Library\\Sarasavi library\\Inquiry.cs [Design]",
+              "RelativeToolTip": "..\\..\\Library\\Sarasavi library\\Inquiry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:32.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Inquiry.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Inquiry.cs",
+              "RelativeDocumentMoniker": "Inquiry.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Inquiry.cs",
+              "RelativeToolTip": "Inquiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:33.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:33.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:32.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-01T14:43:13.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Inquiry.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Inquiry.Designer.cs",
+              "RelativeDocumentMoniker": "Inquiry.Designer.cs",
+              "ToolTip": "C:\\Users\\Avishka Jayasinghe\\Downloads\\Library\\Sarasavi Library\\Sarasavi library\\Inquiry.Designer.cs",
+              "RelativeToolTip": "Inquiry.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:45:33.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
